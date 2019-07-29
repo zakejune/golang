@@ -9,3 +9,7 @@ github　的使用方法
         git remote add  origin + addr  //
         git push -u origin master  //
         git push      //
+
+
+way : git  add -A  git commit -m "some commit" git push
+
