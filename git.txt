@@ -1,0 +1,11 @@
+github　的使用方法
+常用命令行：
+　　　　　git init  //
+        git add reamde.txt //
+        git add -A   //
+        git commit -m "some commit" //
+        git status  //
+        git log    //
+        git remote add  origin + addr  //
+        git push -u origin master  //
+        git push      //
